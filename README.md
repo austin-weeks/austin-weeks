@@ -1,4 +1,4 @@
-# Hey There 👋 I'm Austin
+# Hey There 👋<br/>I'm Austin
 ```javascript
 const austin = {
   code: ['TypeScript', 'C#', 'JavaScript'],
@@ -21,12 +21,15 @@ const austin = {
 <picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
 
 ## 🧑‍💻 My Coolest Projects
+<a href="https://store.steampowered.com/app/2618690/Seas_of_Rebellion/" target="_blank"><img src="https://img.shields.io/badge/Seas_of_Rebellion-%231A9FFF?logo=steam" alt="Seas of Rebellion" title="Seas of Rebellion" height="25" /></a>
+<a href="https://austin-weeks.github.io/osrs-ge-app" target="_blank"><img src="https://img.shields.io/badge/📈_RuneScape_Stock_App-%23a16207" alt="RuneScape Stock App" title="RuneScape Stock App" height="25" /></a>
+<a href="https://austinweeks.dev/youtube" target="_blank"><img src="https://img.shields.io/badge/🍜_YuTube-%23a855f7" alt="YuTube" title="YuTube" height="25" /></a>
+
 
 
 ## 📒 Where to find me
-
-## 🙋 I'd love to connect!
-
 <a href="https://austinweeks.dev" target="_blank"><img src="https://img.shields.io/badge/💼_My_Portfolio-%236366f1" alt="My Portfolio" title="My Portfolio" height="25" /></a>
 <a href="https://www.linkedin.com/in/austinweeks" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin" alt="LinkedIn" title="LinkedIn" height="25" /></a>
 <a href="https://www.youtube.com/@AustinWeeks" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube" alt="YouTube" title="YouTube" height="25" /></a>
+### 🙋 I'd love to connect!
+
