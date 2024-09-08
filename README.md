@@ -6,7 +6,7 @@ const austin = {
   skills: ['WebDev', 'GameDev']
 }
 ```
-### 💻 Technologies & Tools
+## 💻 Technologies & Tools
 <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js" title="Node.js" height="25" /></picture>
@@ -18,14 +18,15 @@ const austin = {
 <picture><img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" title="Git" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/D3.js-grey?logo=d3dotjs" alt="D3.js" title="D3.js" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/C%23-grey?logo=sharp" alt="C#" title="C#" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
+
+## 🧑‍💻 My Coolest Projects
 
 
-### 📚 Right Now I'm Learning
+## 📒 Where to find me
 
-### 🧑‍💻 My Coolest Projects
+## 🙋 I'd love to connect!
 
-
-### 📒 Where to find me
-
-### 🙋 I'd love to connect!
+<a href="https://austinweeks.dev" target="_blank"><img src="https://img.shields.io/badge/💼_My_Portfolio-%236366f1" alt="My Portfolio" title="My Portfolio" height="25" /></a>
+<a href="https://www.linkedin.com/in/austinweeks" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin" alt="LinkedIn" title="LinkedIn" height="25" /></a>
+<a href="https://www.youtube.com/@AustinWeeks" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube" alt="YouTube" title="YouTube" height="25" /></a>
