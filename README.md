@@ -1,12 +1,14 @@
 # Hey There 👋<br/>I'm Austin
 ```javascript
 const austin = {
-  code: ['TypeScript', 'C#', 'JavaScript'],
-  tools: ['React', 'Node', 'TailWind', 'Unity']
-  skills: ['WebDev', 'GameDev']
+  languages: ['TypeScript', 'C#', 'JavaScript'],
+  topTools: ['React', 'Node', 'TailWind', 'Unity'],
+  skills: ['WebDev', 'GameDev'],
+  favoriteFood: 'Tofu',
+  favoriteColor: '#4338ca'
 }
 ```
-## 💻 Technologies & Tools
+## 💻 Stuff I Use
 <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js" title="Node.js" height="25" /></picture>
