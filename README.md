@@ -1,6 +1,6 @@
 # Hey There 👋<br/>I'm Austin
 ```javascript
-const austin = {
+const austin: AboutMe = {
   languages: ['TypeScript', 'C#', 'JavaScript'],
   topTools: ['React', 'Node', 'TailWind', 'Unity'],
   skills: ['WebDev', 'GameDev'],
@@ -31,6 +31,8 @@ const austin = {
 
 ## ⌨️ Need to Vet My Code?
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=osrs-ge-app&theme=material-palenight)](https://github.com/austin-weeks/osrs-ge-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=chess&theme=material-palenight)](https://github.com/austin-weeks/chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=Seas-of-Rebellion-Snippets&theme=material-palenight)](https://github.com/austin-weeks/Seas-of-Rebellion-Snippets)
 
 ## 📒 Where to find me
 <a href="https://austinweeks.dev" target="_blank"><img src="https://img.shields.io/badge/💼_My_Portfolio-%236366f1" alt="My Portfolio" title="My Portfolio" height="25" /></a>
