@@ -8,7 +8,7 @@ const austin: AboutMe = {
   favoriteColor: '#4338ca'
 }
 ```
-## 💻 Stuff I Use
+## 💻 Tech I Use
 <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js" title="Node.js" height="25" /></picture>
@@ -24,7 +24,7 @@ const austin: AboutMe = {
 
 <!--!<picture>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-weeks&layout=compact)</picture>-->
 
-## 🧑‍💻 My Coolest Projects
+## 🧑‍💻 My Favorite Projects
 <a href="https://store.steampowered.com/app/2618690/Seas_of_Rebellion/" target="_blank"><img src="https://img.shields.io/badge/Seas_of_Rebellion-%231A9FFF?logo=steam" alt="Seas of Rebellion" title="Seas of Rebellion" height="25" /></a>
 <a href="https://austin-weeks.github.io/osrs-ge-app" target="_blank"><img src="https://img.shields.io/badge/📈_RuneScape_Stock_App-%23a16207" alt="RuneScape Stock App" title="RuneScape Stock App" height="25" /></a>
 <a href="https://austinweeks.dev/youtube" target="_blank"><img src="https://img.shields.io/badge/🍜_YuTube-%23a855f7" alt="YuTube" title="YuTube" height="25" /></a>
