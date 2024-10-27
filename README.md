@@ -27,6 +27,7 @@ const austin: AboutMe = {
 ## 🧑‍💻 My Favorite Projects
 <a href="https://store.steampowered.com/app/2618690/Seas_of_Rebellion/" target="_blank"><img src="https://img.shields.io/badge/Seas_of_Rebellion-%231A9FFF?logo=steam" alt="Seas of Rebellion" title="Seas of Rebellion" height="25" /></a>
 <a href="https://austin-weeks.github.io/osrs-ge-app" target="_blank"><img src="https://img.shields.io/badge/📈_RuneScape_Stock_App-%23a16207" alt="RuneScape Stock App" title="RuneScape Stock App" height="25" /></a>
+<a href="https://austin-weeks.github.io/Hyrule-Compendium" target="_blank"><img src="https://img.shields.io/badge/🧝🏻‍♂️_The_Hyrule_Compendium-%2394a3b8" alt="The Hyrule Compendium" title="The Hyrule Compendium" height="25" /></a>
 <a href="https://austinweeks.dev/youtube" target="_blank"><img src="https://img.shields.io/badge/🍜_YuTube-%23a855f7" alt="YuTube" title="YuTube" height="25" /></a>
 
 ## ⌨️ Need to Vet My Code?
