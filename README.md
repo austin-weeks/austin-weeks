@@ -1,7 +1,7 @@
 # Hey There 👋<br/>I'm Austin
 ```javascript
 const austin: AboutMe = {
-  languages: ['TypeScript', 'C#', 'JavaScript'],
+  languages: ['TypeScript', 'C#', 'JavaScript', 'Go'],
   topTools: ['React', 'Node', 'TailWind', 'Unity'],
   skills: ['WebDev', 'GameDev'],
   favoriteFood: 'Tofu',
@@ -21,6 +21,7 @@ const austin: AboutMe = {
 <picture><img src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/D3.js-grey?logo=d3dotjs" alt="D3.js" title="D3.js" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/Go-grey?logo=go" alt="Go" title="Go" height="25" /></picture>
 
 <!--!<picture>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-weeks&layout=compact)</picture>-->
 
