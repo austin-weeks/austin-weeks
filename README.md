@@ -5,19 +5,22 @@
 <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Go-grey?logo=go" alt="Go" title="Go" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Go" title="Go" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML5" title="HTML5" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/CSS-grey?logo=css3" alt="CSS3" title="CSS3" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" title="Python" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/SQL-grey?logo=databricks" alt="SQL" title="SQL" height="25" /></picture>
+<!-- not really languages but oh well -->
+<!-- <picture><img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML5" title="HTML5" height="25" /></picture> -->
+<!-- <picture><img src="https://img.shields.io/badge/CSS-grey?logo=css3" alt="CSS3" title="CSS3" height="25" /></picture> -->
 
 ## 💻 Tools I Use
 <picture><img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js" title="Node.js" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Unity_Engine-grey?logo=unity" alt="Unity Engine" title="Unity Engine" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/React-grey?logo=react" alt="React" title="React" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" alt="MongoDB" title="MongoDB" height="25" /></picture>
+<!-- <picture><img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" alt="MongoDB" title="MongoDB" height="25" /></picture> -->
 <picture><img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" title="Git" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/D3.js-grey?logo=d3" alt="D3.js" title="D3.js" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=60a5fa" alt="D3.js" title="D3.js" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=60a5fa" alt="PostgreSQL" title="PostgreSQL" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/PyTorch-grey?logo=pytorch" alt="PyTorch" title="PyTorch" height="25" /></picture>
 
 
 ## 🧑‍💻 My Favorite Projects
