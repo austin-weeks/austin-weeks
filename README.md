@@ -30,12 +30,25 @@
 <a href="https://austinweeks.dev/youtube" target="_blank"><img src="https://img.shields.io/badge/🍜_YuTube-%23a855f7" alt="YuTube" title="YuTube" height="25" /></a>
 
 ## ⌨️ Check Out These Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=osrs-ge-app&theme=material-palenight)](https://github.com/austin-weeks/osrs-ge-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=chess&theme=material-palenight)](https://github.com/austin-weeks/chess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=Seas-of-Rebellion-Snippets&theme=material-palenight)](https://github.com/austin-weeks/Seas-of-Rebellion-Snippets)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=Hyrule-Compendium&theme=material-palenight)](https://github.com/austin-weeks/Hyrule-Compendium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=blagg&theme=material-palenight)](https://github.com/austin-weeks/blagg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=ml-interactive-site&theme=material-palenight)](https://github.com/austin-weeks/ml-interactive-site)
+<a href="https://github.com/austin-weeks/osrs-ge-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=osrs-ge-app&theme=material-palenight">
+</a>
+<a href="https://github.com/austin-weeks/chess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=chess&theme=material-palenight">
+</a>
+<a href="https://github.com/austin-weeks/gladiator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=gladiator&theme=material-palenight">
+</a>
+<a href="https://github.com/austin-weeks/ml-interactive-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=ml-interactive-site&theme=material-palenight">
+</a>
+<a href="https://github.com/austin-weeks/blagg">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=blagg&theme=material-palenight">
+</a>
+<a href="https://github.com/austin-weeks/Hyrule-Compendium">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=Hyrule-Compendium&theme=material-palenight">
+</a>
+
 
 ## 📒 Where to Find Me
 <a href="https://austinweeks.dev" target="_blank"><img src="https://img.shields.io/badge/💼_My_Portfolio-%236366f1" alt="My Portfolio" title="My Portfolio" height="25" /></a>
