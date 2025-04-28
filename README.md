@@ -1,11 +1,11 @@
 # Hey There 👋<br/>I'm Austin
 ## ✍️ Languages I Write
 <!-- <picture>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-weeks&layout=compact)</picture> -->
+<picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" title="Python" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Go-grey?logo=go" alt="Go" title="Go" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" title="Python" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/SQL-grey?logo=databricks" alt="SQL" title="SQL" height="25" /></picture>
 <!-- not really languages but oh well -->
 <!-- <picture><img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML5" title="HTML5" height="25" /></picture> -->
@@ -20,7 +20,6 @@
 <picture><img src="https://img.shields.io/badge/D3.js-grey?logo=d3" alt="D3.js" title="D3.js" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=60a5fa" alt="PostgreSQL" title="PostgreSQL" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/PyTorch-grey?logo=pytorch" alt="PyTorch" title="PyTorch" height="25" /></picture>
-<!-- <picture><img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" alt="MongoDB" title="MongoDB" height="25" /></picture> -->
 
 
 ## 🧑‍💻 My Favorite Projects
