@@ -41,8 +41,8 @@
 <a href="https://github.com/austin-weeks/ml-interactive-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=ml-interactive-site&theme=material-palenight">
 </a>
-<a href="https://github.com/austin-weeks/blagg">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=blagg&theme=material-palenight">
+<a href="https://github.com/gt-tech-ai/OrgWarden">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gt-tech-ai&repo=OrgWarden&theme=material-palenight">
 </a>
 <a href="https://github.com/austin-weeks/Hyrule-Compendium">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-weeks&repo=Hyrule-Compendium&theme=material-palenight">
