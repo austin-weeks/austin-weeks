@@ -1,12 +1,13 @@
 # Hey There 👋<br/>I'm Austin
 ## ✍️ Languages I Write
 <!-- <picture>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-weeks&layout=compact)</picture> -->
+<picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" title="Python" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" alt="TypeScript" title="TypeScript" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture>
+<!-- <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture> -->
 <picture><img src="https://img.shields.io/badge/Go-grey?logo=go" alt="Go" title="Go" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/SQL-grey?logo=databricks" alt="SQL" title="SQL" height="25" /></picture>
+<picture><img src="https://img.shields.io/badge/Rust-grey?logo=rust" alt="Rust" title="Rust" height="25" /></picture>
 <!-- not really languages but oh well -->
 <!-- <picture><img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML5" title="HTML5" height="25" /></picture> -->
 <!-- <picture><img src="https://img.shields.io/badge/CSS-grey?logo=css3" alt="CSS3" title="CSS3" height="25" /></picture> -->
