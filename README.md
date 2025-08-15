@@ -5,7 +5,6 @@
 <picture><img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" title="Python" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/C%23-grey?logo=dotnet" alt="C#" title="C#" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Go-grey?logo=go" alt="Go" title="Go" height="25" /></picture>
-<picture><img src="https://img.shields.io/badge/SQL-grey?logo=databricks" alt="SQL" title="SQL" height="25" /></picture>
 <picture><img src="https://img.shields.io/badge/Rust-grey?logo=rust" alt="Rust" title="Rust" height="25" /></picture>
 <!-- <picture><img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript" title="JavaScript" height="25" /></picture> -->
 <!-- not really languages but oh well -->
