@@ -19,4 +19,4 @@ I like to code every now and again...
   <img width="22" alt="Rust Ferris" src="https://github.com/user-attachments/assets/8252d600-b52c-4401-befb-732be399a102" />
 </p>
 
-<em>🎨 Profile art by [@cerberus_saturn07](https://www.instagram.com/cerberus_saturn07/)</em>
+<em>🎨 Profile art by [@delphoxlover334](https://www.instagram.com/delphoxlover334/)</em>
